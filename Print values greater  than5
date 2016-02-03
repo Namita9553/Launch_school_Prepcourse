@@ -1,0 +1,9 @@
+# one line version
+arr.each { |number| puts number if number > 5 }
+
+# multi-line version
+arr.each do |number|
+  if number > 5
+    puts number
+  end
+end
