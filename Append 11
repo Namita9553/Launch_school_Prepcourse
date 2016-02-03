@@ -1,0 +1,7 @@
+# Append
+arr.push(11)
+# --- or ---
+arr << 11
+
+# Prepend
+arr.unshift(0)
