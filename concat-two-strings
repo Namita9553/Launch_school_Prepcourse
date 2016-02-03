@@ -1,0 +1,9 @@
+# Two string values.
+value1 = "Bob"
+value2 = "Smith"
+
+# Concatenate the string values.
+value3 = value1 + value2;
+
+# Display the result.
+puts value3
