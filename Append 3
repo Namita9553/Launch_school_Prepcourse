@@ -1,0 +1,7 @@
+# Remove from end of array
+arr.pop
+
+# Append
+arr << 3
+# --- or ---
+arr.push(3)
